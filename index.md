@@ -1,37 +1,75 @@
-## Welcome to GitHub Pages
+<html>
+<head>
+<title>Web Design</title>
+<style>
+.judul {background-color:#F8F8FF; padding: 30px 90px; color:black;
+        font-size: 24px; font-family:sans-serif;
+      }
+      .header {background-color:#F8F8FF; padding: 1px 1px; color:black;
+        font-size: 20px; text-align: center}
+      .nav {background-color:#F8F8FF; padding: 1px; 
+              color:black; text-align:center}
+      a {color:white; font-size: 16px;}
+      .link {background-color:#B22222; padding: 10px; 
+              color:black; text-align:left;}
+      .colom {background: #F0FFFF;
+	float: left;
+       	height: 100%;
+       	height: 100%;
+	width: 15%;
+        color:black;
+      text-align: left; 
+     }
+       .colom2 {background: #F0FFFF;
+	float: left;
+	height: 100%;
+        width: 15%;
+        color:black;}
+       a {color:black; font-size: 24px;}
+       .content {background: #FFF8DC;
+	float: left;
+	height: 100%;
+	width: 70%;
+        color:black;
+        font-size: 24px;
+       text-align:justify;
+       font-family:serif
+      }
+       .footer {background-color:#B22222; padding: 25px ; 
+              color:black; text-align:center; font-size: 18px;}
+       .cc {text-align:center; color:red; font-size: 24px;
+           }
+</style>
+</head>
+<body>
+    <div class="judul">
+        <img src="indah.png" wight="150px" height="200px" >
+      </div>
+<div class="link"><a href="#">Home</a></div>
+<div class="colom" ><br>
+    <a href="#"> Menu</a><br>
+    <a href="#"> History</a><br>
+    <a href="#"> Province</a><br>  
+    <a href="#"> Beach</a><br>
+    <a href="#"> Mountains</a><br>
+    <br>
+</div>
+<div class="content" ><p><b>Wonderful Indonesia</b><br>
+                      The value of Indonesia´s natural beauty may be admitted,
+					  but expecting more, since every country has its own natural beauty.
+					  Thus, a unique selling proposition is missing,
+					  like for example the promotion of the unique multiculturalism of Indonesia
+					  or the ethnic, cultural and religious pluralism, most countries do not have,
+					  but which Indonesia represents and has a great potential to be promoted
+					  ( Poyk & Pandjaitan 2016).<br><br>
+					  3.2 Country marketing as a tool of "soft diplomacy" 
+					  It would be just a very simplified approach to consider the country marketing´s 
+					  success purely under the indicator of whether and in what amount the growth of tourist 
+					  numbers have taken place as a consequence of a country marketing strategy.
+  </div>
+<div class="colom2" ><br></div>
+ 
+ <div class="footer" > By Bagas Tri Genindaru </div>
 
-You can use the [editor on GitHub](https://github.com/bagastri/Bagas-tri-genindaru/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bagastri/Bagas-tri-genindaru/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
